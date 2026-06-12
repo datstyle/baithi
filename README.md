@@ -63,7 +63,7 @@ This project is licensed under the MIT License.
 
 ### Contract Detail
 
-ID: *(CD44M76D722X6YDCM52KYX2ZFTRWYF3V6MAW42SFY54E66BRZM6YVPNZ)*
+ID: CD44M76D722X6YDCM52KYX2ZFTRWYF3V6MAW42SFY54E66BRZM6YVPNZ
 
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/e8dc0648-e7fc-453b-a1a4-33b980834b22" />
 
