@@ -61,6 +61,6 @@ This project is licensed under the MIT License.
 
 ### Contract Detail
 
-ID: *(your contract ID here after deployment)*
+ID: *(CD44M76D722X6YDCM52KYX2ZFTRWYF3V6MAW42SFY54E66BRZM6YVPNZ)*
 
 ![Contract Transaction](image.png)
