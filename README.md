@@ -12,7 +12,8 @@ PC Rental Management Hub is a decentralized smart contract platform to manage PC
 
 The vision of PC Rental Management Hub is to offer PC rental businesses a decentralized, secure, and automated way to handle equipment availability and user sessions without relying on centralized systems. This guarantees transparent rental tracking, tamper-proof session records, and immutable history — increasing user trust and business reliability.
 
-![PC Rental Shop](<img width="1200" height="625" alt="image" src="https://github.com/user-attachments/assets/c8eb0e88-610b-43f7-891b-9e8fe9e2a0f5" />
+<img width="1200" height="625" alt="image" src="https://github.com/user-attachments/assets/203c5ca4-9b42-47a1-822e-a2ae91424b4f" />
+
 )
 
 ## Key Features
